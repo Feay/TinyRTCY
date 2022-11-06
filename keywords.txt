@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For TinyRTC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+tm.	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getTM	KEYWORD2
+get	KEYWORD2
+set	KEYWORD2
+chipPresent	KEYWORD2
+isRunning	KEYWORD2
+breaktime	KEYWORD2
+maketime		KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+RTC	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+SECS_PER_MIN
+SECS_PER_HOUR
+SECS_PER_DAY
