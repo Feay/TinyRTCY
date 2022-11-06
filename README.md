@@ -1,6 +1,6 @@
 # arduino-tiny_rtc
 TinyRTCY library. Rewritten and from TinyRTC, DS1307RTC, and Time lib. Very tiny code to control the RTC DS1307 and DS3231 module.
-NPT internet atomic clock time setter in example, works on esp8266 =) 
+NTP internet atomic clock time setter in example, works on esp8266 =) 
 
 ### Type Def
 ```
