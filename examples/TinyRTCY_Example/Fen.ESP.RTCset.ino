@@ -6,7 +6,7 @@
 WiFiUDP Udp;
 //TinyRTCY RTC;
 /* wifi net vars*/
-const char ssid[] = "sex";  //  your network SSID (name)
+const char ssid[] = "yourwifiname";  //  your network SSID (name)
 const char pass[] = "";       // your network password
 // NTP Server:
 IPAddress timeServer(129, 6, 15, 28); // 129.6.15.28 a server from the usa pool
